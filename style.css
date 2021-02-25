@@ -289,3 +289,9 @@ body {
       /* border-image: 25%  #ed305d; */
       
 }
+.li {
+  margin-bottom: .25in;
+}
+.bullet-point{
+  margin-bottom: .25 in;
+}
